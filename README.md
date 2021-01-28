@@ -1,4 +1,4 @@
-SLIIT Software Engineering ( Year 2 , Semester 1 )
+# SLIIT Software Engineering ( Year 2 , Semester 1 )
 
 Project Name - Online Auction System
 
